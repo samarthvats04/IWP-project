@@ -1,4 +1,4 @@
-# Inferno Online Clothing Store
+# Luxova Online Clothing Store
 
 An Ecommerce Clothing Store Website
 
